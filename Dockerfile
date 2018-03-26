@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-LABEL maintainer "Sebastian  Iglesias <sebo.iglesias96@gmail.com>"
+LABEL maintainer = "Sebastian  Iglesias <sebo.iglesias96@gmail.com>"
 
 # Use an anonymous user
 
