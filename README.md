@@ -11,16 +11,20 @@ docker run -d -p 27020:27015/udp -e START_MAP=fy_pool_day -e ADMIN_STEAM=0:1:123
 In order to stop, start a stopped server or remove an existing server, use this commands respectively.
 
 ##### Stop
-``docker stop cs
-``
+```
+docker stop cs
+```
 
 ##### Start
-``docker start cs
-``
+```
+docker start cs
+```
 
 ##### Remove
 
-``docker rm cs``
+```
+docker rm cs
+```
 
 ### [Dockerhub](https://hub.docker.com/r/sebiglesias/cs1.6-server/) image
 ```
