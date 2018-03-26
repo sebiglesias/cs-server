@@ -1,5 +1,5 @@
 # cs-server
-Dockerized LinuxGSM CS 1.6 Server with basic plugins
+Dockerized LinuxGSM + SteamCMD CS 1.6 Server with basic plugins
 
 ### Creating the server
 
